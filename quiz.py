@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-print("\nWelcome To my Bible Quiz")
+print("\nWelcome To My Bible Quiz")
 
 name = input ("\nWhat is your name? ")
 print ("Hi", name)
